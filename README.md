@@ -1,1 +1,1 @@
-# devops-task-3
+# DevOps Task 3
